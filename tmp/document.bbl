@@ -1,0 +1,53 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{gl}
+{Khronos Consortium}, ``Opengl,'' \\\url{http://www.opengl.org/}.
+
+
+\bibitem{glsl}
+------, ``Opengl shader language,''
+  \\\url{http://www.opengl.org/documentation/glsl/}.
+
+
+\bibitem{glew}
+M.~M. Milan~Ikits, ``Opengl extension wrangler,''
+  \\\url{http://glew.sourceforge.net}.
+
+
+\bibitem{freeglut}
+P.~Olzsta, ``freeglut,'' \\\url{http://freeglut.sourceforge.net/}.
+
+
+\bibitem{rofl}
+{Riot Games}, ``League of legends,'' \\\url{http://www.leagueoflegends.com/}.
+
+
+\bibitem{lua}
+W.~C. Roberto~Ierusalimschy, Luiz Henrique de~Figueiredo), ``Lua programming
+  language,'' \\\url{http://www.lua.org/}.
+
+
+\bibitem{fat}
+{Titan Studios}, ``Fat princess,''
+  \\\url{http://us.playstation.com/games-and-media/games/fat-princess-ps3.html}.
+
+
+\end{thebibliography}

@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (Web2C 2010)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: document.aux
+The style file: IEEEannot.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6800 items from 3400.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: document.bib
+You've used 7 entries,
+            4480 wiz_defined-function locations,
+            902 strings with 8453 characters,
+and the built_in function-call counts, 3072 in all, are:
+= -- 251
+> -- 49
+< -- 0
++ -- 21
+- -- 14
+* -- 102
+:= -- 530
+add.period$ -- 14
+call.type$ -- 7
+change.case$ -- 35
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 238
+empty$ -- 281
+format.name$ -- 14
+if$ -- 633
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 56
+newline$ -- 48
+num.names$ -- 14
+pop$ -- 196
+preamble$ -- 1
+purify$ -- 21
+quote$ -- 0
+skip$ -- 212
+stack$ -- 0
+substring$ -- 56
+swap$ -- 112
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 56
+warning$ -- 0
+while$ -- 14
+width$ -- 8
+write$ -- 75
